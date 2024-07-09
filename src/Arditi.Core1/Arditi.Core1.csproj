@@ -21,7 +21,7 @@
     <PackageReference Include="Serilog.Exceptions" Version="8.3.0" />
     <PackageReference Include="Serilog.Exceptions.EntityFrameworkCore" Version="8.3.0" />
     <PackageReference Include="Serilog.Exceptions.Refit" Version="8.3.0" />
-    <PackageReference Include="System.Text.Json" Version="6.0.5" />
+    <PackageReference Include="System.Text.Json" Version="8.0.4" />
     <PackageReference Include="Z.ExtensionMethods" Version="2.1.1" />
   </ItemGroup>
 
